@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Venue-52/static/css/main.f855e6bc.css",
+    "main.js": "/Venue-52/static/js/main.f7420eba.js",
+    "static/js/453.75c75d2d.chunk.js": "/Venue-52/static/js/453.75c75d2d.chunk.js",
+    "index.html": "/Venue-52/index.html",
+    "main.f855e6bc.css.map": "/Venue-52/static/css/main.f855e6bc.css.map",
+    "main.f7420eba.js.map": "/Venue-52/static/js/main.f7420eba.js.map",
+    "453.75c75d2d.chunk.js.map": "/Venue-52/static/js/453.75c75d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f7420eba.js"
+  ]
+}
