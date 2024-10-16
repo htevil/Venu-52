@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/Venue-52/static/css/main.f855e6bc.css",
-    "main.js": "/Venue-52/static/js/main.f7420eba.js",
+    "main.css": "/Venue-52/static/css/main.24fe4287.css",
+    "main.js": "/Venue-52/static/js/main.43a328cf.js",
     "static/js/453.75c75d2d.chunk.js": "/Venue-52/static/js/453.75c75d2d.chunk.js",
+    "static/media/Elevation-2.png": "/Venue-52/static/media/Elevation-2.69f3e4a15c6b56b69e2d.png",
+    "static/media/Elevation-3.png": "/Venue-52/static/media/Elevation-3.f0c4d987d55978785eeb.png",
+    "static/media/map.webp": "/Venue-52/static/media/map.865b648af83e7a2578a8.webp",
+    "static/media/cover-3.png": "/Venue-52/static/media/cover-3.f3e20267cc93df2b2118.png",
+    "static/media/Vastu Compliant Office.png": "/Venue-52/static/media/Vastu Compliant Office.325e9ba1d7959d6a63ae.png",
+    "static/media/Natural Light.png": "/Venue-52/static/media/Natural Light.48ce5c1b9a618f059668.png",
+    "static/media/Power Protection.png": "/Venue-52/static/media/Power Protection.dd953017151ec4e41d82.png",
+    "static/media/Staff Amenities.png": "/Venue-52/static/media/Staff Amenities.949f88385d62d4a19f39.png",
     "index.html": "/Venue-52/index.html",
-    "main.f855e6bc.css.map": "/Venue-52/static/css/main.f855e6bc.css.map",
-    "main.f7420eba.js.map": "/Venue-52/static/js/main.f7420eba.js.map",
+    "main.24fe4287.css.map": "/Venue-52/static/css/main.24fe4287.css.map",
+    "main.43a328cf.js.map": "/Venue-52/static/js/main.43a328cf.js.map",
     "453.75c75d2d.chunk.js.map": "/Venue-52/static/js/453.75c75d2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.f7420eba.js"
+    "static/css/main.24fe4287.css",
+    "static/js/main.43a328cf.js"
   ]
 }
