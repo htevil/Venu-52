@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/Venue-52/static/css/main.24fe4287.css",
-    "main.js": "/Venue-52/static/js/main.43a328cf.js",
+    "main.css": "/Venue-52/static/css/main.560efefb.css",
+    "main.js": "/Venue-52/static/js/main.3d34b10f.js",
     "static/js/453.75c75d2d.chunk.js": "/Venue-52/static/js/453.75c75d2d.chunk.js",
-    "static/media/Elevation-2.png": "/Venue-52/static/media/Elevation-2.69f3e4a15c6b56b69e2d.png",
+    "static/media/Map.png": "/Venue-52/static/media/Map.c86fa2f4014a8c79801f.png",
     "static/media/Elevation-3.png": "/Venue-52/static/media/Elevation-3.f0c4d987d55978785eeb.png",
     "static/media/map.webp": "/Venue-52/static/media/map.865b648af83e7a2578a8.webp",
-    "static/media/cover-3.png": "/Venue-52/static/media/cover-3.f3e20267cc93df2b2118.png",
+    "static/media/North.webp": "/Venue-52/static/media/North.1f539d1bcf964f66d125.webp",
+    "static/media/East.webp": "/Venue-52/static/media/East.fa022267aa04feee14d7.webp",
+    "static/media/South.webp": "/Venue-52/static/media/South.136266d82c920f0f70e6.webp",
+    "static/media/West.webp": "/Venue-52/static/media/West.24afbdb8969532948ebb.webp",
     "static/media/Vastu Compliant Office.png": "/Venue-52/static/media/Vastu Compliant Office.325e9ba1d7959d6a63ae.png",
     "static/media/Natural Light.png": "/Venue-52/static/media/Natural Light.48ce5c1b9a618f059668.png",
     "static/media/Power Protection.png": "/Venue-52/static/media/Power Protection.dd953017151ec4e41d82.png",
     "static/media/Staff Amenities.png": "/Venue-52/static/media/Staff Amenities.949f88385d62d4a19f39.png",
     "index.html": "/Venue-52/index.html",
-    "main.24fe4287.css.map": "/Venue-52/static/css/main.24fe4287.css.map",
-    "main.43a328cf.js.map": "/Venue-52/static/js/main.43a328cf.js.map",
+    "main.560efefb.css.map": "/Venue-52/static/css/main.560efefb.css.map",
+    "main.3d34b10f.js.map": "/Venue-52/static/js/main.3d34b10f.js.map",
     "453.75c75d2d.chunk.js.map": "/Venue-52/static/js/453.75c75d2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24fe4287.css",
-    "static/js/main.43a328cf.js"
+    "static/css/main.560efefb.css",
+    "static/js/main.3d34b10f.js"
   ]
 }
