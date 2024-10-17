@@ -1,16 +1,16 @@
 import elevation from '../../../asset/Elevation-3.png'
 export default function Section1() {
     return (
-        <section id="#Overview">
-            <div className="container">
-                <h1 className='Main-heading'>Overview</h1>
-                <div className='sub-container'>
-                    <div>
-                        <img src={elevation} alt="no_elevation" id='elevation' style={{ width: "400px" }} />
+        <section id="Overview">
+            <div className="container1">
+                <h1 className='main-heading'>Overview</h1>
+                <div className='sub-container2'>
+                    <div className='s1-div1'>
+                        <img src={elevation} alt="no_elevation" id='ove_img'/>
                     </div>
-                    <div id='s1-main'>
-                        <h3> The Business Address Of Command</h3>
-                        <p>
+                    <div className='s1-div2'>
+                        <h3  className="sub-heading" id='ove_heading'> The Business Address Of Command</h3>
+                        <p id='ove_para'>
                             VENUE 52 is an iconic commercial landmark masterfully
                             designed by the finest minds of The Wadhwa Group.
                             Its 17-storey tower features exclusive boutique offices
@@ -26,13 +26,12 @@ export default function Section1() {
                         </p>
                     </div>
                 </div>
-                <div className='container' id='Project-highlight' >
-                    <h1>Project Highlight</h1>
-                    <div id='s1-main2'>
-                        <span className='sub-container'>Exclusive Retail Spaces</span><span className='sub-container'>|</span><span className='sub-container'>Versatile Office Sizes</span>
-                        <span className='sub-container'>Innovative Flexible Design</span><span className='sub-container'>|</span><span className='sub-container'>Ample Parking Solutions</span>
-                        <span className='sub-container'>High-Efficiency Elevators</span><span className='sub-container'>|</span><span className='sub-container'>Customizable Office Amenities</span>
-                        <span className='sub-container'>Dedicated Vent Zone</span>
+                <div className='sub-container1' id='Project-Highlight' >
+                    <h1 className="main-heading" >Project Highlight</h1>
+                    <div className='s1-div3'>
+                        <span id='hig_1'>Exclusive Retail Spaces</span><span id='hig_2'>Versatile Office Sizes</span><span id='hig_3'>Innovative Flexible Design</span>
+                        <span id='hig_4'>Ample Parking Solutions</span><span id='hig_5'>High-Efficiency Elevators</span><span id='hig_6'>Customizable Office Amenities</span>
+                        <span id='hig_7'>Dedicated Vent Zone</span>
                     </div>
                 </div>
             </div>
