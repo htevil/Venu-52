@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Venue-52/static/css/main.560efefb.css",
-    "main.js": "/Venue-52/static/js/main.3d34b10f.js",
+    "main.css": "/Venue-52/static/css/main.ceb56ee3.css",
+    "main.js": "/Venue-52/static/js/main.15bbac7b.js",
     "static/js/453.75c75d2d.chunk.js": "/Venue-52/static/js/453.75c75d2d.chunk.js",
     "static/media/Map.png": "/Venue-52/static/media/Map.c86fa2f4014a8c79801f.png",
     "static/media/Elevation-3.png": "/Venue-52/static/media/Elevation-3.f0c4d987d55978785eeb.png",
     "static/media/map.webp": "/Venue-52/static/media/map.865b648af83e7a2578a8.webp",
+    "static/media/cover_1.png": "/Venue-52/static/media/cover_1.bcd1a46ec808b0d39e38.png",
     "static/media/North.webp": "/Venue-52/static/media/North.1f539d1bcf964f66d125.webp",
     "static/media/East.webp": "/Venue-52/static/media/East.fa022267aa04feee14d7.webp",
     "static/media/South.webp": "/Venue-52/static/media/South.136266d82c920f0f70e6.webp",
@@ -15,12 +16,12 @@
     "static/media/Power Protection.png": "/Venue-52/static/media/Power Protection.dd953017151ec4e41d82.png",
     "static/media/Staff Amenities.png": "/Venue-52/static/media/Staff Amenities.949f88385d62d4a19f39.png",
     "index.html": "/Venue-52/index.html",
-    "main.560efefb.css.map": "/Venue-52/static/css/main.560efefb.css.map",
-    "main.3d34b10f.js.map": "/Venue-52/static/js/main.3d34b10f.js.map",
+    "main.ceb56ee3.css.map": "/Venue-52/static/css/main.ceb56ee3.css.map",
+    "main.15bbac7b.js.map": "/Venue-52/static/js/main.15bbac7b.js.map",
     "453.75c75d2d.chunk.js.map": "/Venue-52/static/js/453.75c75d2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.560efefb.css",
-    "static/js/main.3d34b10f.js"
+    "static/css/main.ceb56ee3.css",
+    "static/js/main.15bbac7b.js"
   ]
 }
